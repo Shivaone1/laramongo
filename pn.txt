@@ -1,0 +1,17 @@
+create a phpinfo.php
+
+D:\laravelProjects\laravelMongodb\public\phpinfo.php
+
+<?php
+phpinfo();
+?>
+
+http://127.0.0.1:8000/phpinfo.php
+
+
+https://www.mongodb.com/docs/drivers/php/laravel-mongodb/current/quick-start/download-and-install/
+
+composer require jenssegers/mongodb
+composer require mongodb/mongodb 
+
+composer require mongodb/laravel-mongodb:^5.1
